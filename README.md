@@ -25,7 +25,7 @@ I love exploring computers, technology, and how things work. I'm especially inte
 ## Goals for 2025
 - Learn basic Python or JavaScript
 - Build my first mini website
-- Share my school & wark projects online
+- Share my school & Work projects online
 - Make a fun using Scratch
 
 ---
