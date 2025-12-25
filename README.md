@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a student SSC-25 Bach, learning new things every day.
+I'm a student SSC-25 Batch, learning new things every day.
 
 I love exploring computers, technology, and how things work. I'm especially interested in:
 - Coding fun projects
