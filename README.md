@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a student SSC-25 Batch, learning new things every day.
+I'm a student SSC-25 Batch and HSC-27 Batch. learning new things every day.
 
 I love exploring computers, technology, and how things work. I'm especially interested in:
 - Coding fun projects
@@ -23,10 +23,16 @@ I love exploring computers, technology, and how things work. I'm especially inte
 - Math solving
 
 ## Goals for 2025
-- Learn basic Python or JavaScript
+- Learn basic Python.
 - Build my first mini website
 - Share my school & Work projects online
 - Make a fun using Scratch
+
+## Goals for 2026
+- Learning HTML, CSS and JS.
+- Building my first portfolio website.
+- Sharing my project in Github.
+- Problem solving.
 
 ---
 
